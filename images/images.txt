@@ -1,2 +1,6 @@
 stage from:
 https://www.pinterest.com/pin/511791945125326302/
+sprite player from
+http://untamed.wild-refuge.net/rmxpresources.php?characters
+sprites download from 
+https://opengameart.org/content/opp2017-sprites-characters-objects-effects
